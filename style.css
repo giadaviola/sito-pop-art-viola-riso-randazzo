@@ -724,6 +724,7 @@ header a:hover {
         margin-bottom: 15px;
         max-width: 500px;
         margin: auto;
+        transform: translateY(-18px);
       }
   }
 
@@ -1457,8 +1458,9 @@ body {
     }
 
     .paragraph4 {
-        max-width: 450px;
-        margin: 8px;
+        font-size: 14px;
+        max-width: 480px;
+        margin: 8px 0;
     }
   
     /* Contenitore immagine */
